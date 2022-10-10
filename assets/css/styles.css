@@ -1,7 +1,28 @@
 body {
   font-family: Arial;
   font-size: 120%;
+  background-image: url("../images/bg-img.jpeg")
 }
+
+/* .video-container {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+@media (min-aspect-ratio: 16/9) {
+  .video-container {
+    width: 100%;
+    height: auto;
+  }
+}
+@media (max-aspect-ratio: 16/9) {
+  .video-container {
+    width: auto;
+    height: 100%;
+  }
+} */
 
 a {
   color: #563d7c;
@@ -24,7 +45,6 @@ button {
   color: #eeee;
   border: 4px double #cccccc;
   transition: all 0.5s;
-  /* background-color 0.1s; */
 }
 
 button:hover {
@@ -33,11 +53,6 @@ button:hover {
 
 .choices button {
   display: block;
-}
-
-.image1 {
-  display: block;
-  margin: 0 auto 0 auto;
 }
 
 input[type="text"] {
