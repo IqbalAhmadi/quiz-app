@@ -1,6 +1,6 @@
 # quiz-app
 
-[Deployed Link Here](https://iqbalahmadi.github.io/password-gen-js/)
+[Deployed Link Here](https://iqbalahmadi.github.io/quiz-app/)
 
 <p align="center">
   <img src="./assets/images/quiz.png" width="100" >
